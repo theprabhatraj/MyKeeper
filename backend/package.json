@@ -1,0 +1,15 @@
+{
+  "name": "my-keeper",
+  "version": "1.0.0",
+  "description": "my-keeper- keep your thoughts, secrets, stories to yourself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhat Raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2"
+  }
+}
