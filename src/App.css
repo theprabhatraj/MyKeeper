@@ -1,38 +1,66 @@
-.App {
-  text-align: center;
+i{
+    cursor: pointer;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+     background-color: #eee;
 }
+.navbar{
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+}
+.footer-bottom{
+    background: #ffffff;
+    background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
+    width: 100vw;
+    padding: 20px;
+    text-align: center;
+    color: black;
   }
+  
+  .footer-bottom p{
+    justify-content: center;
+    display:inline-block;
+    /* text-shadow:2px 2px 1px  #bfc2c8; */
+    opacity: 80%;
+}
+.footer-bottom .prabhat{
+    float: left;
+}
+.socials{
+    list-style: none;
+    display: inline;
+    float: right;
+    padding-right: 1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .socials li{
+      margin: 0 10px;
+      display: inline;
+    }
+    
+    .socials a{
+       text-decoration: none;
+       color: #000;
+       opacity: 70%;
+       font-size: 1.5rem;
+       width: 50px;
+  } 
+  
+  .instagram :hover{
+    color: #bc2a8d;
   }
-  to {
-    transform: rotate(360deg);
+  .facebook :hover{
+    color: #3d5b99;
   }
-}
+  .github :hover{
+    color:  #5a32a3;
+  }
+  .linkedin :hover{
+    color:  #000ea3;
+  }
+  .youtube :hover{
+    color: #e64a41;
+  }
+  
