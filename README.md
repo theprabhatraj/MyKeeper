@@ -1,3 +1,43 @@
+# MyKeeper
+
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper1.png)
+
+MyKeeper is a personal note-keeping website app that allows users to create an account and store all their personal notes in one place. The app is built using the MERN stack, which stands for MongoDB, Express.js, React, and Node.js. This technology stack allows for a seamless user experience and efficient data management.
+
+Users can create an account and login to the app, where they can create, edit, and delete notes.
+
+### The SignUp Page:
+
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper2.png)
+
+### The LogIn Page:
+
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper2.png)
+
+Notes can be organized into different categories, making it easy to find and access specific notes. The notes are saved in a MongoDB database.
+Users can edit and delete the notes as well.
+
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper6.png)
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper7.png)
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper8.png)
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper9.png)
+
+MyKeeper also allows users to access their notes from any device with internet access. The app is also secure, with user data and notes data encrypted for added protection.
+
+### The saved User Data is encrypted :
+
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper5.png)
+
+### It also denies the user with invalid credentials:
+
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper4.png)
+
+Overall, MyKeeper is a great tool for keeping all your personal notes organized and easily accessible. The user-friendly interface, efficient data management and the ability to edit and delete notes make it a convenient and reliable app for anyone looking to improve their note-taking experience.
+
+### The saved notes data:
+
+![](https://github.com/theprabhatraj/MyKeeper/blob/master/readme_components/MyKeeper10.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
